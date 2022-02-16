@@ -1,6 +1,6 @@
 # React App
 
-### React App toggle switch between Light mode and Dark mode in a react app
+### React App to toggle switch between Light mode and Dark mode in a react app
 
 ### Demo: https://dillon-porter.github.io/reactdarkmode/
 
